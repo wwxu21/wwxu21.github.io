@@ -1,3 +1,13 @@
+---
+permalink: /
+title: #"academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 Biography
 ======
 I am currently a third-year Ph.D. student at The Chinese University of Hong Kong, supervised by [Prof. Wai Lam](https://www1.se.cuhk.edu.hk/~textmine/). Before joining CUHK, I am a full-time Research Engineer at Agency for Science, Technology and Research (A*STAR), Singapore.
