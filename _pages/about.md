@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: #"Short Bio"
-excerpt: "Weiwen Xu"
+title: ""
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 About Me
 ======
 I am currently a third-year Ph.D. student at The Chinese University of Hong Kong, supervised by [Prof. Wai Lam](https://www1.se.cuhk.edu.hk/~textmine/). Before joining CUHK, I was a full-time Research Engineer at Agency for Science, Technology and Research (A*STAR), Singapore.
