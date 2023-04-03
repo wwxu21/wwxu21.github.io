@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a third-year Ph.D. student at The Chinese University of Hong Kong, supervised by [Prof. Wai Lam](https://www1.se.cuhk.edu.hk/~textmine/). Before joining CUHK, I am a full-time Research Engineer at Agency for Science, Technology and Research (A*STAR), Singapore.
+About Me
+======
+I am currently a third-year Ph.D. student at The Chinese University of Hong Kong, supervised by [Prof. Wai Lam](https://www1.se.cuhk.edu.hk/~textmine/). Before joining CUHK, I was a full-time Research Engineer at Agency for Science, Technology and Research (A*STAR), Singapore.
 I got my bachelor degree in computer science from Yingcai Honors College, University of Electronic Science and Technology of China (UESTC). 
 My research interests include topics in machine reading comprehension (MRC). Most recently, I am interested in model pre-training and generic data augmentation.
 
