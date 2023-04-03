@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About Me"
-excerpt: "none"
+excerpt: "Weiwen Xu"
 author_profile: true
 redirect_from: 
   - /about/
