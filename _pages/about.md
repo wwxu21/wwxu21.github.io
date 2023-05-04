@@ -27,6 +27,18 @@ University of Electronic Science and Technology of China <br>
 
 Publications
 ======
+* **mPMR: Multilingual Machine Reader Pre-training at Scale** <br>
+**Weiwen Xu**, Xin Li, Wai Lam, Lidong Bing <br>
+To appear in The 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)
+
+* **mPeerDA: Data Augmentation via Modeling Peer Relation for Span Identification Tasks** <br>
+**Weiwen Xu**, Xin Li, Yang Deng, Lidong Bing, Wai Lam <br>
+To appear in The 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)
+
+* **A Unified Multi-task Learning Framework for Multi-goal Conversational Recommender Systems** [[arxiv](https://arxiv.org/abs/2204.06923)]<br>
+Yang Deng, Wenxuan Zhang, **Weiwen Xu**, Wenqiang Lei, Tat-Seng Chua, Wai Lam. <br>
+To appear in ACM Transactions on Information Systems (TOIS 2023)
+
 * **A Unified Multi-task Learning Framework for Multi-goal Conversational Recommender Systems** [[arxiv](https://arxiv.org/abs/2204.06923)]<br>
 Yang Deng, Wenxuan Zhang, **Weiwen Xu**, Wenqiang Lei, Tat-Seng Chua, Wai Lam. <br>
 To appear in ACM Transactions on Information Systems (TOIS 2023)
