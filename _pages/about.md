@@ -27,11 +27,11 @@ University of Electronic Science and Technology of China <br>
 
 Publications
 ======
-* **mPMR: Multilingual Machine Reader Pre-training at Scale** <br>
+* **mPMR: A Multilingual Pre-trained Machine Reader at Scale** [[arxiv](https://arxiv.org/pdf/2305.13645.pdf)][[code](https://github.com/DAMO-NLP-SG/PMR)]<br>
 **Weiwen Xu**, Xin Li, Wai Lam, Lidong Bing <br>
 To appear in The 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)
 
-* **PeerDA: Data Augmentation via Modeling Peer Relation for Span Identification Tasks** <br>
+* **PeerDA: Data Augmentation via Modeling Peer Relation for Span Identification Tasks** [[arxiv](https://arxiv.org/pdf/2210.08855.pdf)][[code](https://github.com/DAMO-NLP-SG/PeerDA)]<br>
 **Weiwen Xu**, Xin Li, Yang Deng, Lidong Bing, Wai Lam <br>
 To appear in The 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)
 
