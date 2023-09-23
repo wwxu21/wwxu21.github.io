@@ -39,7 +39,7 @@ ACL 2023 <br>
 **Weiwen Xu**, Xin Li, Yang Deng, Lidong Bing, Wai Lam <br>
 ACL 2023 <br>
 
-* **Nonfactoid question answering as query-focused summarization with graph-enhanced multihop inference** [[arxiv](https://arxiv.org/abs/2204.06923)]<br>
+* **Nonfactoid question answering as query-focused summarization with graph-enhanced multihop inference** [[paper](https://ieeexplore.ieee.org/abstract/document/10083216)]<br>
 Yang Deng, Wenxuan Zhang, **Weiwen Xu**, Ying Shen, Wai Lam. <br>
 TNNLS 2023 <br>
 
@@ -59,7 +59,7 @@ EMNLP 2021 Findings <br>
 **Weiwen Xu**, Huihui Zhang, Deng Cai, Wai Lam. <br>
 ACL 2021 Findings <br>
 
-* **Addressing the Vulnerability of NMT in Input Perturbations** [[pdf](https://aclanthology.org/D19-1087.pdf)]<br>
+* **Addressing the Vulnerability of NMT in Input Perturbations** [[pdf](https://aclanthology.org/2021.naacl-industry.11.pdf)]<br>
 **Weiwen Xu**, Ai Ti Aw, Yang Ding, Kui Wu, Shafiq Joty. <br>
 NAACL 2021 Industry Track <br>
 
