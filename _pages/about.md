@@ -25,6 +25,12 @@ Computer Science from Yingcai Honors College, <br>
 University of Electronic Science and Technology of China <br>
 
 
+Preprints
+======
+* **Reasons to Reject? Aligning Language Models with Judgments** [[arxiv](https://arxiv.org/pdf/2312.14591.pdf)][[code](https://github.com/wwxu21/CUT)]<br>
+**Weiwen Xu**, Deng Cai, Zhisong Zhang, Wai Lam, Shuming Shi <br>
+
+
 Publications
 ======
 * **From Clozing to Comprehending: Retrofitting Pre-trained Masked Language Model to Pre-trained Machine Reader** [[arxiv](https://arxiv.org/pdf/2212.04755.pdf)][[code](https://github.com/DAMO-NLP-SG/PMR)]<br>
