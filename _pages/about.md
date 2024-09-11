@@ -10,9 +10,7 @@ redirect_from:
 
 About Me
 ======
-I am currently a final-year Ph.D. student at The Chinese University of Hong Kong, supervised by [Prof. Wai Lam](https://www1.se.cuhk.edu.hk/~textmine/). Before joining CUHK, I was a full-time Research Engineer at Agency for Science, Technology and Research (A*STAR), Singapore.
-I got my bachelor degree in computer science from Yingcai Honors College, University of Electronic Science and Technology of China (UESTC). 
-My research interests include topics in machine reading comprehension (MRC). Most recently, I am interested in knowledge enhancement and alignment for LLMs.
+I am currently a research scientist at Language Technology Lab, Alibaba DAMO Academy. Prior to that, I obtained my Ph.D. degree from The Chinese University of Hong Kong, under the supervision of Prof. Wai Lam.
 
 Education
 ======
@@ -25,14 +23,12 @@ Computer Science from Yingcai Honors College, <br>
 University of Electronic Science and Technology of China <br>
 
 
-Preprints
-======
-* **Reasons to Reject? Aligning Language Models with Judgments** [[arxiv](https://arxiv.org/pdf/2312.14591.pdf)][[code](https://github.com/wwxu21/CUT)]<br>
-**Weiwen Xu**, Deng Cai, Zhisong Zhang, Wai Lam, Shuming Shi <br>
-
-
 Publications
 ======
+* **Reasons to Reject? Aligning Language Models with Judgments** [[paper](https://aclanthology.org/2024.findings-acl.730)][[code](https://github.com/wwxu21/CUT)]<br>
+**Weiwen Xu**, Deng Cai, Zhisong Zhang, Wai Lam, Shuming Shi <br>
+ACL 2024 Findings <be>
+
 * **From Clozing to Comprehending: Retrofitting Pre-trained Masked Language Model to Pre-trained Machine Reader** [[paper](https://openreview.net/forum?id=BVN9Kgvwzv)][[code](https://github.com/DAMO-NLP-SG/PMR)]<br>
 **Weiwen Xu**, Xin Li, Wenxuan Zhang, Meng Zhou, Wai Lam, Luo Si, Lidong Bing <br>
 NeurIPS 2023 <br>
