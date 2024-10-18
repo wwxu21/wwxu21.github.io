@@ -10,11 +10,12 @@ redirect_from:
 
 About Me
 ======
-I am currently a research scientist at Language Technology Lab, Alibaba DAMO Academy. Prior to that, I obtained my Ph.D. degree from The Chinese University of Hong Kong, under the supervision of Prof. Wai Lam.
+I am currently a research scientist at the Language and Science AI Lab, Alibaba DAMO Academy. Prior to that, I obtained my Ph.D. degree from The Chinese University of Hong Kong, under the supervision of Prof. Wai Lam.
+My research mainly lies in Retrieval Augmented Generation (RAG), Data Augmentation, and Language Agent.
 
 Education
 ======
-* Aug. 2020 - Present, Ph.D. <br>
+* Aug. 2020 - July 2024, Ph.D. <br>
 Department of Systems Engineering and Engineering Management, <br>
 The Chinese University of Hong Kong <br>
 
