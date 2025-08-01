@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ======
-I am currently a senior algorithm engineer at the Medical AI Lab, Alibaba DAMO Academy. Prior to that, I obtained my Ph.D. degree from the Chinese University of Hong Kong, under the supervision of Prof. Wai Lam.
+I am currently a senior algorithm engineer at the Decision Intelligence Lab, Alibaba DAMO Academy. Prior to that, I obtained my Ph.D. degree from the Chinese University of Hong Kong, under the supervision of Prof. Wai Lam.
 My research mainly lies in LLM/MLLM Reasoning, Data Augmentation/Synthesis, and Agent.
 
 Education
@@ -26,6 +26,12 @@ University of Electronic Science and Technology of China <br>
 
 Selected Publications
 ======
+* **VL-Cogito: Progressive Curriculum Reinforcement Learning for Advanced Multimodal Reasoning** [[paper](https://arxiv.org/pdf/2507.22607)]<br>
+Ruifeng Yuan, Chenghao Xiao, Sicong Leng, Jianyu Wang, Long Li, **Weiwen Xu**, Hou Pong Chan, Deli Zhao, Tingyang Xu, Zhongyu Wei, Hao Zhang, Yu Rong <br>
+
+* **ReasonMed: A 370K Multi-Agent Generated Dataset for Advancing Medical Reasoning** [[paper](https://arxiv.org/pdf/2506.09513)] [[dataset](https://huggingface.co/datasets/lingshu-medical-mllm/ReasonMed)] <br>
+Yu Sun, Xingyu Qian, **Weiwen Xu**, Hao Zhang, Chenghao Xiao, Long Li, Yu Rong, Wenbing Huang, Qifeng Bai, Tingyang Xu <br>
+  
 * **Lingshu: A Generalist Foundation Model for Unified Multimodal Medical Understanding and Reasoning** [[paper](https://arxiv.org/pdf/2506.07044)][[model](https://huggingface.co/lingshu-medical-mllm/Lingshu-7B)]<br>
 **Weiwen Xu**, Hou Pong Chan, Long Li, and 15 other authors <br>
 
